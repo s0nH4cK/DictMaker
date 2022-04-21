@@ -6,7 +6,7 @@
 # Usage is dictmaker.py -t <password types> -s <max file size aprox desired>
 # Password types are:
 #   all         -- Generate all types
-#   decent      -- Generate [a-zA-Z0-9]{10] password
+#   decent      -- Generate [a-zA-Z0-9]{10} password
 #   strong      -- Generate [a-zA-A0-9special]{15} password
 #   root        -- Generate [a-zA-Z0-9special]{30} password
 #   256_general -- Generate [a-zA-Z0-9]{32} password
@@ -25,7 +25,7 @@
 #
 # There are probably much better scripts. However, you're free to test this one,
 # improve it, share it, or simply ignore it.
-# Replies to @s0nH4cK, s0nh4ck@gmail.com or elblogdes0nh4ck.blogspot.com
+# Send your comments to @s0nH4cK or s0nh4ck@gmail.com
 
 import urllib
 import sys
